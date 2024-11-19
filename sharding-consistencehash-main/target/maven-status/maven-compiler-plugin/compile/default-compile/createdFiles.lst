@@ -1,0 +1,12 @@
+com\manji\shardingdemo\consistencehash\ConsistenceHashAlgorithm.class
+com\manji\shardingdemo\service\UserService.class
+com\manji\shardingdemo\ShardingDemoApplication.class
+com\manji\shardingdemo\service\impl\UserServiceImpl.class
+com\manji\shardingdemo\util\ConsistenceHashUtil.class
+com\manji\shardingdemo\entity\User.class
+com\manji\shardingdemo\controller\UserController.class
+com\manji\shardingdemo\util\SnowflakeUtil.class
+com\manji\shardingdemo\mapper\UserMapper.class
+com\manji\shardingdemo\consistencehash\InitTableNodesToHashLoop.class
+com\manji\shardingdemo\config\MybatisConfig.class
+com\manji\shardingdemo\util\SpringUtils.class
